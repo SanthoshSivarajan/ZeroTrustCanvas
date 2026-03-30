@@ -118,16 +118,13 @@ Reports.Read.All, IdentityRiskyUser.Read.All, IdentityRiskEvent.Read.All
 ## Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/1.jpg)
+![Executive Summary](screenshots/2.jpg)
 
-### Per-Domain Section
-![Domain Section](screenshots/screenshot-domain-section.png)
+### Section
+![Domain Section](screenshots/1.jpg)
 
-### Forest-Wide Charts
-![Charts](screenshots/screenshot-charts.png)
-
-### DC Table
-![DC Table](screenshots/screenshot-dc-table.png)
+### Charts
+![Charts](screenshots/3.jpg)
 
 ## License
 
