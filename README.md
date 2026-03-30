@@ -4,7 +4,6 @@
 
 **Author:** Santhosh Sivarajan, Microsoft MVP
 **GitHub:** [https://github.com/SanthoshSivarajan/ZeroTrustCanvas](https://github.com/SanthoshSivarajan/ZeroTrustCanvas)
-**Reference:** [Microsoft Zero Trust Assessment Framework](https://learn.microsoft.com/en-us/security/zero-trust/assessment/overview)
 
 ---
 
