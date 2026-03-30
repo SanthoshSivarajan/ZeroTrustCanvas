@@ -27,7 +27,7 @@ This is not just documentation -- it's an **assessment with maturity scoring**.
 
 ### 1. Identity (Entra ID)
 - MFA enforcement via Conditional Access or Security Defaults
-- Global Admin count (recommended 2-5)
+- Global Admin count
 - Legacy authentication blocking
 - Named locations for network-based policies
 - Guest user ratio
