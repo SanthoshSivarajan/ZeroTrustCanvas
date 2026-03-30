@@ -115,6 +115,20 @@ Reports.Read.All, IdentityRiskyUser.Read.All, IdentityRiskEvent.Read.All
 .\ZeroTrustCanvas.ps1 -OutputPath C:\Reports
 ```
 
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/1.jpg)
+
+### Per-Domain Section
+![Domain Section](screenshots/screenshot-domain-section.png)
+
+### Forest-Wide Charts
+![Charts](screenshots/screenshot-charts.png)
+
+### DC Table
+![DC Table](screenshots/screenshot-dc-table.png)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
